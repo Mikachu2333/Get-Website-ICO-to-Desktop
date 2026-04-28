@@ -12,7 +12,7 @@
 **而当我们把视线转向android手机平台**，小米手机的 HyperOS 桌面抽屉模式中，那种精致、纯粹且极具辨识度的图标生态，一直是我**心目中的理想形态**。
 
 **Get-Website-ICO-to-Desktop 就是为了彻底终结这个痛点而诞生的** 它不只是一个普通的下载脚本，而是一个智能的“**图标锻造炉**”。
-
+<img width="741" height="628" alt="image" src="https://github.com/user-attachments/assets/a75d2344-9106-45b9-ad73-5c501e5f17f7" />
 无论是面对严格的 403 防爬虫拦截、复杂的云存储防盗链，还是披着图片外衣的“假网页验证码”，它都能通过内置的多阶回退机制（双重备用 API 智能切换）无缝绕过。
 
 更核心的是，它会在底层将抓取到的所有图像数据，强制重构并转换为 **100% 纯正的 Windows 原生 .ico 格式**。
@@ -25,7 +25,7 @@
 
 
 # 使用教程
-1 安装python
+1 安装python3
 
 2 安装必要的库文件
 
@@ -35,6 +35,11 @@
 使用cmd或powershell 运行py文件
 
 ```python Get-Website-ICO-to-Desktop V1.1.py ```
+
+
+
+# To Be Done
+- [ ]  面对电脑小白用户，实现封装自动化
 
 
 
