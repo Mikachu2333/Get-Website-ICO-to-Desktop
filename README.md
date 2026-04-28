@@ -2,7 +2,7 @@
 
 # 1设计灵感与核心痛点
 
-**再见了，chrome默认图标！**
+**再见了，chrome默认图标~**
 
 <img width="748" height="708" alt="IMG_202604283288_748x708" src="https://github.com/user-attachments/assets/31d8979d-8b98-4b1a-a1c1-a3be5a06d98c" />
 
@@ -50,7 +50,11 @@
 
 
 
+
+
 ---
+
+
 # Design Inspiration and Core Pain Points 
 
 **Goodbye, the default icon of Chrome**! 
