@@ -41,7 +41,7 @@ def download_and_convert_favicon(url):
     if not url.startswith(('http://', 'https://')):
         url = 'https://' + url
 
-    save_dir = r"C:\Users\95279\OneDrive\Pictures\ico"
+    save_dir = r"D:\DesktopPictures\ico"
     os.makedirs(save_dir, exist_ok=True)
 
     domain = urlparse(url).netloc
