@@ -71,3 +71,7 @@ Just enter a website address, and we will immediately provide you with a high-de
 Easily move the website icon to the desktop, and it's never been this simple.
 
 2026.04.14
+
+# 友情推广
+
+linux.do社区：https://linux.do/
