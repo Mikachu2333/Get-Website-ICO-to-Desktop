@@ -21,6 +21,9 @@
 
 把网站图标优雅地搬到桌面，从未如此简单。
 
+# 处理流程图
+![Uploading Gemini_Generated_Image_9g9f4l9g9f4l9g9f.png…]()
+
 2026.04.14
 
 
