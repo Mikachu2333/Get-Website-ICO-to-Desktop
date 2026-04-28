@@ -1,5 +1,5 @@
 
-# 1设计灵感与核心痛点
+# 1.设计灵感与核心痛点
 
 **再见了，chrome默认图标~**
 
@@ -20,7 +20,7 @@
 
 把网站图标优雅地搬到桌面，从未如此简单。
 
-# 2处理流程图
+# 2.处理流程图
 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_b0ohj5b0ohj5b0oh" src="https://github.com/user-attachments/assets/4532814b-b29e-422f-bfbe-30a657f762d6" />
 
@@ -29,7 +29,7 @@
 **2026.04.14**
 
 
-# 3使用教程
+# 3.使用教程
 1 安装python3
 
 2 安装必要的库文件
@@ -44,7 +44,7 @@
 
 
 
-# 4Todo
+# 4.Todo
 
 - [ ]  面对电脑小白用户，实现封装自动化
 
